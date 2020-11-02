@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://linkedin.com/in/hannesschaletzky">
+  <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
+
+
 <!--
 **hannesschaletzky/hannesschaletzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
