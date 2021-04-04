@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate software engineer from Germany, currently based in Berlin. I am always looking for exciting projects and engaging coding sessions, I love coding. My next deep dive is gonna be into ReactJS. Feel free to connect. Cheers
+I am a passionate software engineer from Germany, currently based in Berlin. I am always looking for exciting projects and engaging coding sessions, I love coding. Feel free to connect. Cheers
 
 <a href="https://linkedin.com/in/hannesschaletzky">
   <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
