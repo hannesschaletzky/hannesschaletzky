@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate software engineer from Germany, currently based in Berlin. I am always looking for exciting projects and engaging coding sessions, I love coding. Feel free to connect. Cheers
+End-to-end thinking clean-code enthusiast with multiple years of software engineering experience. Recently graduated from LeWagon's full-stack coding bootcamp. Looking for freelance web/full-stack projects.
 
 <a href="https://linkedin.com/in/hannesschaletzky">
   <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
