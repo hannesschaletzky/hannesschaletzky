@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-End-to-end thinking clean-code enthusiast with multiple years of software engineering experience. Recently graduated from LeWagon's full-stack coding bootcamp. Looking for freelance backend, devops and it-admin projects.
+End-to-end thinking clean-code enthusiast with multiple years of software engineering experience. Recently graduated from LeWagon's full-stack coding bootcamp. Looking for freelance full stack web dev projects.
 
 <a href="https://linkedin.com/in/hannesschaletzky">
   <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
