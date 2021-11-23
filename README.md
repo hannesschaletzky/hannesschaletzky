@@ -5,6 +5,8 @@ End-to-end thinking clean-code enthusiast with multiple years of software engine
 <a href="https://linkedin.com/in/hannesschaletzky">
   <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
 
+  
+  [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=366e0f51af6c&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 <!--
 **hannesschaletzky/hannesschaletzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
