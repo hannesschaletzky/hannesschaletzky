@@ -1,24 +1,19 @@
 ### Hi there 👋
 
-End-to-end thinking clean-code enthusiast with multiple years of software engineering experience. Recently graduated from LeWagon's full-stack coding bootcamp. Looking for freelance full stack web dev projects.
+I am a freelance web dev. I love programming back-ends. I've been working in Tech for several years before I decided to start my freelance-career. Graduated from LeWagon's full-stack coding bootcamp in 2021 as well. 
+
+#### Looking for freelance full stack web dev projects with:
+
+<ul>
+  <li>Next.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>React</li>
+  <li>TypeScript/JavaScript</li>
+</ul>
+
+You can reach me at <anfrage@hschaletzky.com><br>
+or take a look at my CV and portfolio [here](https://www.hschaletzky.com/CV_HannesSchaletzky.pdf) (both german). 
 
 <a href="https://linkedin.com/in/hannesschaletzky">
-  <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
-
-  
-  [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=366e0f51af6c&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
-<!--
-**hannesschaletzky/hannesschaletzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="60px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
