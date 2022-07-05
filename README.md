@@ -1,16 +1,8 @@
+![image](https://user-images.githubusercontent.com/29574225/177346721-2c2d3a23-e1aa-49d0-9a35-d73830a86dec.png)
+
 ### Hi there 👋
 
-I am a freelance web dev. I love programming back-ends. I've been working in Tech for several years before I decided to start my freelance-career. Graduated from LeWagon's full-stack coding bootcamp in 2021 as well. 
-
-#### Looking for freelance full stack web dev projects with:
-
-<ul>
-  <li>Next.js</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>React</li>
-  <li>TypeScript/JavaScript</li>
-</ul>
+Working as a Software Engineer for [DigitalService](https://digitalservice.bund.de/) 
 
 You can reach me at <anfrage@hschaletzky.com><br>
 or take a look at my CV and portfolio [here](https://www.hschaletzky.com/CV_HannesSchaletzky.pdf) (both german). 
