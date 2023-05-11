@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Working as a Software Engineer for [DigitalService](https://digitalservice.bund.de/) 
+I am working as a Software Engineer for [DigitalService](https://digitalservice.bund.de/) 
 
 <a href="https://linkedin.com/in/hannesschaletzky">
   <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="60px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
