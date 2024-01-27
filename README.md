@@ -1,8 +1,14 @@
-![image](https://user-images.githubusercontent.com/29574225/177346721-2c2d3a23-e1aa-49d0-9a35-d73830a86dec.png)
-
 ### Hi there 👋
 
-I am working as a Software Engineer for [DigitalService](https://digitalservice.bund.de/) 
+I'm a software engineer open to freelance projects.
 
-<a href="https://linkedin.com/in/hannesschaletzky">
+Checkout my past projects and my stack on my
+[website](https://hschaletzky.com/) 
+
+<div>
+  Feel free to reach out on
+</div>
+<br/>
+<a href="https://linkedin.com/in/hannesschaletzky" target="_blank"
+        rel="noreferrer">
   <img align="left" alt="Hemanth Kotagiri - LinkedIn" width="60px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
