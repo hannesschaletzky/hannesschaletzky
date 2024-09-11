@@ -3,7 +3,7 @@
 I'm a software engineer open to freelance projects.
 
 Checkout my past projects and my stack on my
-[website](https://hschaletzky.com/) 
+<a href="https://hschaletzky.com/" target="_blank" rel="noreferrer">website</a>
 
 <div>
   Feel free to reach out on
